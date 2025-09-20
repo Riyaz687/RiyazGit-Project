@@ -5,4 +5,8 @@ public class RiyazGitNew {
 		System.out.println("Riyaz Git New");
 	}
 
+	private void Fathima() {
+		System.out.println("Fathima add Fathima Branch");
+
+	}
 }
